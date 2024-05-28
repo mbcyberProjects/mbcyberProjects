@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mbcyberProjects
+- 👀 I’m interested in Python programs utilizing API access
+- 🌱 I’m currently learning Security fundamentals and red teaming
+- 📫 How to reach me michael@mbcyber.org
+- 😄 Pronouns: he/him
